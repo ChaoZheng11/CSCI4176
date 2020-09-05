@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "646477936614",
+    "firebase_url": "https://dashplay-2c8ca.firebaseio.com",
+    "project_id": "dashplay-2c8ca",
+    "storage_bucket": "dashplay-2c8ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646477936614:android:f0d78ec538f4d63ce10827",
+        "android_client_info": {
+          "package_name": "com.chen.vax.dashplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646477936614-ghj0odl0vfbeu7sg33g4ju4gk6pk2jl9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chen.vax.dashplay",
+            "certificate_hash": "02ab697c521c3ae8e9481aed1eea2f124445e220"
+          }
+        },
+        {
+          "client_id": "646477936614-gcf57b12takde8hr70tp4bb0e94svpi3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCle389BQnRShqtS436B16COEY_WChB74Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646477936614-gcf57b12takde8hr70tp4bb0e94svpi3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
